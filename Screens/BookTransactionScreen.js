@@ -58,5 +58,5 @@ const MyStyles = StyleSheet.create({
         color:'tint'
     }
 })
-})
+
 
